@@ -72,10 +72,3 @@ N/A
 - Processed data files should be of the form "yobXXXX" with any extension (explained above).
 
 - When testing a range of years, START_YEAR < or = END_YEAR in Main.java or ProcessTest.java
-
-### Impressions
-I thought this was a fairly good assignment, although for the life of me I could not figure out how to work with URLs for data input, so I gave up as I decided it was not worth the amount of time I had spent looking into it at a certain point.
-
-The only other gripe I had was that some of the specification questions in the Complete part of the project seem to be duplicated of questions in Basic, so I just added comments describing when a method was reused.
-
-Besides this, I like that it was open-ended in its design/structure and I like how we had to look up answers to our own problems to solve an issue in our own way. 
